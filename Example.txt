@@ -1,0 +1,2 @@
+The  example file of Git
+Hello Git.
